@@ -1,7 +1,7 @@
 # Media-Classifier-Backend
 
 <h1>.Installation guide</h1>
-Please see the instructions below to run the program:
+Please see the instructions below to run the program:<br />
 Backend Guide:
 a-)Unzip the backend files and place them into a python project folder.
 b-)Make sure you have python 3.10 or greater Installed in the system you are accessing the program from.
